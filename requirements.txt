@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+celery
+redis
+sqlalchemy
+sqlmodel
+psycopg2-binary
+pgvector
+httpx
+tenacity
+python-multipart
+pdfminer.six
+pytesseract
+pillow
+pytest
